@@ -1,0 +1,29 @@
+
+#campeon {
+    float: right;
+}
+ #cartaRandom{
+     float: right;
+
+ }
+
+
+ .row { 
+    height:200px;
+    line-height:1em;
+  }
+  
+  .box {
+    display:inline-block;
+    width:100px;
+    height:200px;
+    box-sizing:border-box;
+    border:1px solid red; 
+  }
+
+
+  .imageCampeon{
+    width:100px;
+    height:200px;
+  }
+

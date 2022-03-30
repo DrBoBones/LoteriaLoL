@@ -22,8 +22,12 @@
   }
 
 
-  .imageCampeon{
+  .imageCampeon {
     width:100px;
     height:200px;
+    filter: grayscale(100%);
   }
 
+  .imageCampeonSelected {
+    filter: grayscale(0%) !important;
+  }

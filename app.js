@@ -80,10 +80,13 @@ function grid(el) {
 			imageCampeon.id = nombreCampeon;
 			let imagen = (nombreCampeon + '.jpg')
 			imageCampeon.src= "Images/"+imagen;
-            var box = document.createElement("div"); 
+            var box = document.createElement("div");
+			imageCampeon.selected = true; 
             box.className = "box";
 			box.appendChild(imageCampeon);
             row.appendChild(box);
+			bindClick(imageCampeon);
+			clickHappened(imageCampeon);
         };
       
         container.appendChild(row);      
@@ -91,6 +94,26 @@ function grid(el) {
   
     el.appendChild(container);
 };
+
+
+function bindClick(card) {
+	card.addEventListener('click', function() {
+		clickHappened(card);
+	});
+}
+
+function clickHappened(card) {
+	if(card.id != cartaActual) {
+		return;
+	}
+	card.selected = !card.selected;
+	console.log(card.id);
+	if(card.selected) {
+		card.classList.add("imageCampeonSelected");
+	}else{
+		card.classList.remove("imageCampeonSelected");
+	}
+}
 
 sacarCarta();
 grid(document.body);

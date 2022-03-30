@@ -1,0 +1,168 @@
+
+body{
+    background-color: #1f2041;        
+}
+
+@media screen and (min-width: 320px){
+    
+    .loteriaLol{
+        width: 80vw;
+        height: 15vh;
+        color: #e2adf2;
+        text-align:center;
+        font-size: 2.3em;
+        position:relative;
+        left:8vh;
+    }
+
+    .intro{
+        width: 80vw;
+        left:10vw;
+        color:white;
+        text-align:center;
+        font-size: 1.3em;
+        position: relative;
+        top: 20vh;
+    }
+
+    button{
+        background-color: #ffc857;
+        position: relative;
+        left: 39vw;
+        top: 30vh;
+        font-weight: 600;
+        width: 25vw;
+        height: 10vh;
+    }
+}
+
+@media screen and (min-width: 375px){
+    
+    .loteriaLol{
+        width: 80vw;
+        height: 15vh;
+        color: #e2adf2;
+        text-align:center;
+        font-size: 2.8em;
+        position:relative;
+        left:9vh;
+    }
+
+    .intro{
+        width: 80vw;
+        left:10vw;
+        color:white;
+        text-align:center;
+        font-size: 1.3em;
+        position: relative;
+        top: 24vh;
+    }
+
+    button{
+        background-color: #ffc857;
+        position: relative;
+        left: 40vw;
+        top: 34vh;
+        font-weight: 600;
+        width: 23vw;
+        height: 11vh;
+    }
+}
+
+@media screen and (min-width: 768px){
+    
+    .loteriaLol{
+        width: 80vw;
+        color: #e2adf2;
+        text-align:center;
+        font-size: 4em;
+        position:relative;
+        left:10vw;
+    }
+
+    .intro{
+        width: 80vw;
+        left:10vw;
+        color:white;
+        text-align:center;
+        font-size: 1.8em;
+        position: relative;
+        top: 24vh;
+    }
+
+    button{
+        background-color: #ffc857;
+        position: relative;
+        left: 45vw;
+        top: 34vh;
+        font-weight: 600;
+        width: 10vw;
+        height: 10vh;
+
+    }
+}
+
+@media screen and (min-width: 1024px){
+    
+    .loteriaLol{
+        width: 80vw;
+        color: #e2adf2;
+        text-align:center;
+        font-size: 4em;
+        position:relative;
+        left:10vw;
+    }
+
+    .intro{
+        width: 80vw;
+        left:10vw;
+        color:white;
+        text-align:center;
+        font-size: 1.8em;
+        position: relative;
+        top: 24vh;
+    }
+
+    button{
+        background-color: #ffc857;
+        position: relative;
+        left: 46vw;
+        top: 34vh;
+        font-weight: 600;
+        width: 10vw;
+        height: 10vh;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    
+    .loteriaLol{
+        width: 80vw;
+        color: #e2adf2;
+        text-align:center;
+        font-size: 6em;
+        position:relative;
+        left:10vw;
+    }
+
+    .intro{
+        width: 80vw;
+        left:10vw;
+        color:white;
+        text-align:center;
+        font-size: 3em;
+        position: relative;
+        top: 24vh;
+    }
+
+    button{
+        background-color: #ffc857;
+        position: relative;
+        left: 46vw;
+        top: 34vh;
+        font-weight: 600;
+        font-size:2em;
+        width: 12vw;
+        height: 12vh;
+    }
+}

@@ -2,7 +2,7 @@ body{
     background-color: #4b3f72;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 424px){
 
     .titleSelectCards{
         background-color: #1f2041;
@@ -13,7 +13,7 @@ body{
 
     .instructionsSelectCards{
         color:antiquewhite;
-        font-size: 1.5em;
+        font-size: 1.2em;
         text-align: center;
     }
 
@@ -37,8 +37,7 @@ body{
     }
 }
 
-
-@media screen and (max-width: 1023px){
+@media screen and (min-width: 425px){
 
     .titleSelectCards{
         background-color: #1f2041;
@@ -49,7 +48,7 @@ body{
 
     .instructionsSelectCards{
         color:antiquewhite;
-        font-size: 1.5em;
+        font-size: 1.2em;
         text-align: center;
     }
 
@@ -70,6 +69,44 @@ body{
 
      img{
         width:18vw
+    }
+}
+
+@media screen and (min-width: 768px){
+
+    .titleSelectCards{
+        background-color: #1f2041;
+        color:white;
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .instructionsSelectCards{
+        width: 90vw;
+        position: relative;
+        left:5vw;
+        color:antiquewhite;
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .mainContainer{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;  
+        gap:10px; 
+        width: 90vw;
+        position: relative;
+        left: 3vw;
+    }
+    
+    .mainGrid{
+        border-bottom: 3px solid #ffc857;
+        padding: 5vw;
+    }
+
+     img{
+        width:9vw
     }
 }
 
@@ -83,10 +120,14 @@ body{
     }
 
     .instructionsSelectCards{
+        width: 90vw;
+        position: relative;
+        left:5vw;
         color:antiquewhite;
-        font-size: 1.5em;
+        font-size: 1.8em;
         text-align: center;
     }
+
     .mainContainer{
         display:grid;
         grid-template-columns: 1fr 1fr;
@@ -98,15 +139,33 @@ body{
     }
     
     .mainGrid{
+        border-bottom: 3px solid #ffc857;
         padding: 5vw;
     }
 
      img{
-        width:9vw
+        width:8vw
     }
 }
 
 @media screen and (min-width: 1440px){
+
+    .titleSelectCards{
+        background-color: #1f2041;
+        color:white;
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .instructionsSelectCards{
+        width: 90vw;
+        position: relative;
+        left:5vw;
+        color:antiquewhite;
+        font-size: 1.8em;
+        text-align: center;
+    }
+
     .mainContainer{
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -118,6 +177,7 @@ body{
     }
     
     .mainGrid{
+        border-bottom: 3px solid #ffc857;
         padding: 5vw;
     }
 

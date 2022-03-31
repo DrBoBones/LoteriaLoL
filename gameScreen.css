@@ -1,0 +1,424 @@
+
+@media screen and (min-width: 320px)and (max-width: 325px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:1.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:50vw;
+        height: 31.4vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:35vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 34vh;
+        height: 46vh;
+        }
+}
+
+@media screen and (min-width: 326px)and (max-width: 356px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:1.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:50vw;
+        height: 29.3vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:32.8vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 31vh;
+        height: 46vh;
+        }
+}
+
+@media screen and (min-width: 357px) and (max-width: 361px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:50vw;
+        height: 27vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:29.5vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 28vh;
+        height: 49vh;
+        }
+}
+
+@media screen and (min-width: 362px)and (max-width: 419px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:50vw;
+        height: 24.6vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:27.2vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 26vh;
+        height: 52vh;
+        }
+}
+
+@media screen and (min-width: 420px) and (max-width: 479px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:51vw;
+        height: 22.6vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:25.2vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 24vh;
+        height: 54vh;
+        }
+}
+
+@media screen and (min-width: 480px) and (max-width: 555px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:36vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:51.5vw;
+        height: 20vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:22.7vh;
+        left:45vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 21vh;
+        height: 55vh;
+        }
+}
+
+@media screen and (min-width: 556px) and (max-width: 592px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:39vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:51.7vw;
+        height: 17.7vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:20.4vh;
+        left:45.2vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 19vh;
+        height: 57vh;
+        }
+}
+
+@media screen and (min-width: 593px) and (max-width: 723px){
+
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+    
+    .gsInstructions{
+        padding:2vh;
+        width:39vw;
+        background-color: aquamarine;
+        position: relative;
+        bottom:0.5vh;
+        font-size: 0.8em;
+    }
+    
+    .poolCards{
+        width:51.7vw;
+        height: 15.5vh;
+        background-color: antiquewhite;
+        position: relative;
+        bottom:18vh;
+        left:45.2vw;   
+    }
+
+    .gameTable{
+        background-color: beige;
+        position:relative;
+        bottom: 16.5vh;
+        height: 60vh;
+        }
+}
+
+@media screen and (min-width: 724px) and (max-width: 1056px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+
+    .gsInstructions{
+        background-color: aquamarine;
+        width: 66vw;
+        position: relative;
+        bottom:1vh;
+    }
+
+    .poolCards{
+        background-color: antiquewhite;
+        width:30vw;
+        height: 77vh;
+        float:right;
+        position: relative;
+        bottom: 12vh;
+    }
+
+    .gameTable{
+        background-color: beige;
+        width: 66vw;
+        height: 65vh;
+    }
+}
+
+@media screen and (min-width: 1057px) and (max-width: 1207px){
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+
+    .gsInstructions{
+        background-color: aquamarine;
+        width: 66vw;
+        position: relative;
+        bottom:1vh;
+    }
+
+    .poolCards{
+        background-color: antiquewhite;
+        width:31.3vw;
+        height: 74vh;
+        float:right;
+        position: relative;
+        bottom: 9vh;
+    }
+
+    .gameTable{
+        background-color: beige;
+        width: 66vw;
+        height: 65vh;
+    }
+}
+
+@media screen and (min-width: 1207px) {
+    body{
+        height: 97vh;
+        background-color: rgb(110, 123, 148);
+    }
+
+    header{
+        background-color: purple;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        padding: 1vh;
+    }
+
+    .gsInstructions{
+        background-color: aquamarine;
+        width: 66vw;
+        height:7vh;
+        position: relative;
+    }
+
+    .poolCards{
+        background-color: antiquewhite;
+        width:31.3vw;
+        height: 74vh;
+        float:right;
+        position: relative;
+        bottom: 9vh;
+    }
+
+    .gameTable{
+        background-color: beige;
+        width: 66vw;
+        height: 65vh;
+    }
+}
